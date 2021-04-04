@@ -6,7 +6,7 @@ categories:
 last_modified_at: 2021-04-04T08:06:00-13:00
 ---
 
-Some extra work:
+Some extra works:
 
 - Participation in the National Statistic Meeting (ENESTE) - 2018;
 
